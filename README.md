@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bfin4444
-- 👀 I’m interested in learnning the use of repos and how not to ruin them. 
+- 👀 I’m interested in learning the use of repos and how not to ruin them. 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anyone willing to data science projects.
 - 📫 How to reach me bfin4444@gmail.com
